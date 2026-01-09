@@ -287,7 +287,7 @@ export default function Partnership() {
             </div>
             <div>
               <h3 className="font-semibold text-white mb-4">Contact</h3>
-              <p className="text-sm text-gray-400 mb-2">Gulu District, Northern Uganda</p>
+              <p className="text-sm text-gray-400 mb-2">Omoro District, Northern Uganda</p>
               <p className="text-sm text-gray-400">
                 <a href="mailto:info@theyouth.world" className="hover:text-orange-400 transition-colors">
                   info@theyouth.world

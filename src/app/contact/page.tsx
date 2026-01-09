@@ -72,7 +72,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Location</h3>
-                    <p className="text-gray-700">Gulu District, Northern Uganda</p>
+                    <p className="text-gray-700">Omoro District, Northern Uganda</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -190,7 +190,7 @@ export default function Contact() {
             </div>
             <div>
               <h3 className="font-semibold text-white mb-4">Contact</h3>
-              <p className="text-sm text-gray-400 mb-2">Gulu District, Northern Uganda</p>
+              <p className="text-sm text-gray-400 mb-2">Omoro District, Northern Uganda</p>
               <p className="text-sm text-gray-400">
                 <a href="mailto:info@theyouth.world" className="hover:text-orange-400 transition-colors">
                   info@theyouth.world

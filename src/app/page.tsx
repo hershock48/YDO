@@ -73,7 +73,7 @@ export default function Home() {
               Rehabilitating post-war communities through <span className="text-orange-600">youth empowerment</span> and local leadership.
             </h1>
             <p className="text-lg sm:text-xl text-gray-700 mb-6 leading-relaxed">
-              Youth Development Organisation Uganda (YDO) is a community-based organization in Gulu District, Northern Uganda, led by local community members and committed to the long-term rehabilitation and empowerment of war-affected communities.
+              Youth Development Organisation Uganda (YDO) is a community-based organization in Omoro District, Northern Uganda, led by local community members and committed to the long-term rehabilitation and empowerment of war-affected communities.
             </p>
             <p className="text-lg sm:text-xl text-gray-700 mb-8 leading-relaxed">
               YDO designs and implements programs in education, psycho-social support, vocational training, life-skills development, and child welfare advocacy — strengthening families, protecting children, and building community resilience from within.
@@ -420,7 +420,7 @@ export default function Home() {
             <div>
               <h3 className="font-semibold text-white mb-4">Contact</h3>
               <p className="text-sm text-gray-400 mb-2">
-                Gulu District, Northern Uganda
+                Omoro District, Northern Uganda
               </p>
               <p className="text-sm text-gray-400">
                 <a href="mailto:info@theyouth.world" className="hover:text-orange-400 transition-colors">

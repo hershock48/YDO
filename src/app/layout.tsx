@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     template: "%s | Youth Development Organisation Uganda"
   },
   description: "YDO is a Uganda-based community development organization focused on rehabilitation and empowerment in war-affected regions. We provide education, psycho-social support, vocational training, and advocacy for children, women, and vulnerable populations in Northern Uganda.",
-  keywords: ["youth development", "Uganda", "community development", "post-conflict recovery", "education", "vocational training", "psycho-social support", "child welfare", "Northern Uganda", "Gulu"],
+  keywords: ["youth development", "Uganda", "community development", "post-conflict recovery", "education", "vocational training", "psycho-social support", "child welfare", "Northern Uganda", "Omoro"],
   authors: [{ name: "Youth Development Organisation Uganda" }],
   creator: "Youth Development Organisation Uganda",
   publisher: "Youth Development Organisation Uganda",

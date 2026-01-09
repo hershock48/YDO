@@ -83,7 +83,7 @@ YDO is a core implementation partner with [Be A Number, International](https://b
 ## Contact
 
 - **Email:** info@theyouth.world
-- **Location:** Gulu District, Northern Uganda
+- **Location:** Omoro District, Northern Uganda
 - **Website:** https://theyouth.world
 
 ## License
